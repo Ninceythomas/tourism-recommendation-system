@@ -1,7 +1,7 @@
 import joblib
 import pandas as pd
 from sklearn.metrics.pairwise import cosine_similarity
-from datacleaning import merge_data
+from src.datacleaning import merge_data
 
 
 def train_recommender():
