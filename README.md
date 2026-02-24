@@ -153,7 +153,7 @@ The recommendation system uses user-based collaborative filtering.
 
 The classification model uses Random Forest for structured feature prediction.
 
-*#Important Note#*
+**#Important Note#**
 The streamlit app has been deployed and when you just run the .streamlitapp it spontaneously trains the ML models and predicts the values and displays them .
 **#Just Run in your browser#**
 https://tourism-experience-analysis.streamlit.app/ 
